@@ -19,4 +19,4 @@ public class HelloWorld {
     }
 }
 
-This is line to be removed using git revert
+This is line to be removed using git reset
