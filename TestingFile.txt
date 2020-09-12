@@ -14,9 +14,5 @@ public class HelloWorld {
 
         // println() prints the following line to the output screen
         System.out.println("You entered: " + number);
-		Learn for Life !!
-		Life is Learning !!
     }
 }
-
-This is line to be removed using git revert
